@@ -3,7 +3,7 @@
 Practica para de grid y flexbox en css
 
 ##Autor-
-Jose Alexis Campos Oropeza
+**Jose Alexis Campos Oropeza**
 
 
 * ILinkedIn](https://www.linkedin.com/in/alexis-oropeza-b78157261/)
