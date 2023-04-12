@@ -1,9 +1,9 @@
 ## Descripción
 
-Proyecto para practica de grid y flexbox en css
+Practica para de grid y flexbox en css
 
-##Autor -
-*NOMBRE*
+##Autor-
+Jose Alexis Campos Oropeza
 
 
 * ILinkedIn](https://www.linkedin.com/in/alexis-oropeza-b78157261/)
