@@ -2,7 +2,7 @@
 
 Practica para de grid y flexbox en css
 
-##Autor-
+##Autor
 **Jose Alexis Campos Oropeza**
 
 
